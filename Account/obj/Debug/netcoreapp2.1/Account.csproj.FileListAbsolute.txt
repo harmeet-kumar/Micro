@@ -1,0 +1,15 @@
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\obj\Debug\netcoreapp2.1\Account.csproj.CoreCompileInputs.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\obj\Debug\netcoreapp2.1\Account.AssemblyInfoInputs.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\obj\Debug\netcoreapp2.1\Account.AssemblyInfo.cs
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\bin\Debug\netcoreapp2.1\Account.deps.json
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\bin\Debug\netcoreapp2.1\Account.runtimeconfig.json
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\bin\Debug\netcoreapp2.1\Account.runtimeconfig.dev.json
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\bin\Debug\netcoreapp2.1\Account.dll
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\bin\Debug\netcoreapp2.1\Account.pdb
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\obj\Debug\netcoreapp2.1\Account.RazorAssemblyInfo.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\obj\Debug\netcoreapp2.1\Account.RazorAssemblyInfo.cs
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\obj\Debug\netcoreapp2.1\Account.RazorTargetAssemblyInfo.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\obj\Debug\netcoreapp2.1\Account.dll
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\obj\Debug\netcoreapp2.1\Account.pdb
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\obj\Debug\netcoreapp2.1\Account.csprojAssemblyReference.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Account\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

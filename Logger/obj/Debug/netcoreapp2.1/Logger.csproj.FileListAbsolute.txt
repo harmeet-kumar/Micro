@@ -1,0 +1,15 @@
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\obj\Debug\netcoreapp2.1\Logger.csproj.CoreCompileInputs.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\obj\Debug\netcoreapp2.1\Logger.AssemblyInfoInputs.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\obj\Debug\netcoreapp2.1\Logger.AssemblyInfo.cs
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\bin\Debug\netcoreapp2.1\Logger.deps.json
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\bin\Debug\netcoreapp2.1\Logger.runtimeconfig.json
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\bin\Debug\netcoreapp2.1\Logger.runtimeconfig.dev.json
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\bin\Debug\netcoreapp2.1\Logger.dll
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\obj\Debug\netcoreapp2.1\Logger.RazorAssemblyInfo.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\obj\Debug\netcoreapp2.1\Logger.RazorAssemblyInfo.cs
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\obj\Debug\netcoreapp2.1\Logger.RazorTargetAssemblyInfo.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\obj\Debug\netcoreapp2.1\Logger.csprojAssemblyReference.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\bin\Debug\netcoreapp2.1\Logger.pdb
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\obj\Debug\netcoreapp2.1\Logger.dll
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Logger\obj\Debug\netcoreapp2.1\Logger.pdb

@@ -1,0 +1,15 @@
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\obj\Debug\netcoreapp2.1\Transactions.csproj.CoreCompileInputs.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\obj\Debug\netcoreapp2.1\Transactions.AssemblyInfoInputs.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\obj\Debug\netcoreapp2.1\Transactions.AssemblyInfo.cs
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\bin\Debug\netcoreapp2.1\Transactions.deps.json
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\bin\Debug\netcoreapp2.1\Transactions.runtimeconfig.json
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\bin\Debug\netcoreapp2.1\Transactions.runtimeconfig.dev.json
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\bin\Debug\netcoreapp2.1\Transactions.dll
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\bin\Debug\netcoreapp2.1\Transactions.pdb
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\obj\Debug\netcoreapp2.1\Transactions.RazorAssemblyInfo.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\obj\Debug\netcoreapp2.1\Transactions.RazorAssemblyInfo.cs
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\obj\Debug\netcoreapp2.1\Transactions.RazorTargetAssemblyInfo.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\obj\Debug\netcoreapp2.1\Transactions.dll
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\obj\Debug\netcoreapp2.1\Transactions.pdb
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\obj\Debug\netcoreapp2.1\Transactions.csprojAssemblyReference.cache
+C:\NAGP\WorkShop6-Microservices\assignment\KRATOS\Transactions\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
